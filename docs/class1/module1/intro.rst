@@ -25,7 +25,7 @@ Lab Topology
 ~~~~~~~~~~~~
 
 
-  .. image:: media/image000.png
+  .. image:: /_static/class1/image000.png
 		 :width: 5.15
 		 :height: 3.30
 
