@@ -5,10 +5,10 @@
 # ------------
 #
 # REQUIRED: Your class/lab name
-classname = "Introduction to Access"
+classname = "Access 102 - Access Building Blocks"
 
 # OPTIONAL: The URL to the GitHub Repository for this class
-github_repo = "https://github.com/f5devcentral/f5-agility-labs-irules"
+github_repo = "https://github.com/yzfvroom/Access-102"
 
 # OPTIONAL: Google Analytics
 # googleanalytics_id = 'UA-85156643-4'
