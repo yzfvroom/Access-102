@@ -1,12 +1,14 @@
-Cooking with iRules Labs
+Access 102 - Access Building Blocks
 ===================================
 
-This is the collection of HTTP Labs.  Here is where you get to prove you listened in class :)
+This is the collection of Access Labs.
 
 .. toctree::
    :maxdepth: 1
    :glob:
 
    lab*
-   iRulesSummary
-   iRuleEvents*
+   lab1*
+   lab2*
+   lab3*
+   lab4*
