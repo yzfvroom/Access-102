@@ -5,7 +5,7 @@
 # ------------
 #
 # REQUIRED: Your class/lab name
-classname = "Cooking with iRules - HTTP"
+classname = "Introduction to Access"
 
 # OPTIONAL: The URL to the GitHub Repository for this class
 github_repo = "https://github.com/f5devcentral/f5-agility-labs-irules"
@@ -256,6 +256,3 @@ texinfo_documents = [
      author, classname, classname,
      'Training'),
 ]
-
-
-
